@@ -9,7 +9,7 @@ Date of create: 15.11.2023
 Date of finished:  
 
 1. Был запущен minikube.  
-![vault](../lab1/img/1.png)
+![image](../lab1/img/1.png)
 
 2. Содзан манифест создания пода.  
 ![vault](../lab1/img/2.png)
