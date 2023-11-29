@@ -18,6 +18,7 @@ Date of finished:
 ![vault](../lab1/img/3.png)
 
 4. Создаём сервис.
+
 ![vault](../lab1/img/4.png)
 
 5. Деплоим сервис.  
